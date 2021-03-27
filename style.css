@@ -1,0 +1,24 @@
+body {
+  background: #121212;
+  text-align: center;
+  font-family: 'Fira Code', 'Courier', monospace;
+  color: white;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 10px 10%;
+}
+
+article {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: #00d0f5;
+}
